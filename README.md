@@ -1,1 +1,1 @@
-I will be adding various chapter on learning pytorch.
+I will be adding various chapters to learn pytorch.
